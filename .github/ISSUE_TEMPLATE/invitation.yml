@@ -1,7 +1,7 @@
 name: Invitation to the GitHub Community Organization
 description: I would like to be part of the awesome community!
 title: "Please invite me to the GitHub Community Organization"
-labels: invite me to the organization
+labels: inviteme
 assignees: devarshishimpi
 body:
   - type: input
@@ -14,4 +14,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        Feel free to check out other cool repositories of the Let's Open Source Community [here](https://github.com/dvstechlabs)
+        Feel free to check out other cool repositories of the DVS Tech Community [here](https://github.com/dvstechlabs)
