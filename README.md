@@ -28,6 +28,6 @@ ByteMakers Community is a community of developers, designers, and tech enthusias
 
 ## FAQs
 
-- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [DVS Tech Labs](https://github.com/dvstechlabs).
+- **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be - [Netflix](https://github.com/Netflix), [Facebook](https://github.com/facebook), and of course [ByteMakers](https://github.com/bytemakers).
   Learn more on [GitHub docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 - **How do I join the Github Organization?** Raise an issue on this repository asking to join ([invite me](https://github.com/bytemakers/Become-A-Member/issues/new?assignees=devarshishimpi&labels=inviteme&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)).
